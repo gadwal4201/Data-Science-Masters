@@ -1,0 +1,188 @@
+INFO:root:Log this line of Execution
+INFO:root:This is my info message
+WARNING:root:This is my warning message
+ERROR:root:This is my error message
+CRITICAL:root:This is my critical message
+CRITICAL:root:This is my fatal message
+ERROR:root:This is my exception message
+NoneType: None
+INFO:root:This is my info message
+WARNING:root:This is my warning message
+ERROR:root:This is my error message
+CRITICAL:root:This is my critical message
+INFO:root:This is my info message
+WARNING:root:This is my warning message
+ERROR:root:This is my error message
+CRITICAL:root:This is my critical message
+INFO:root:This is my info message
+WARNING:root:This is my warning message
+ERROR:root:This is my error message
+CRITICAL:root:This is my critical message
+INFO:root:Log this line of Execution
+INFO:root:This is my info message
+WARNING:root:This is my warning message
+ERROR:root:This is my error message
+CRITICAL:root:This is my critical message
+CRITICAL:root:This is my fatal message
+ERROR:root:This is my exception message
+NoneType: None
+INFO:root:This is my info message
+WARNING:root:This is my warning message
+ERROR:root:This is my error message
+CRITICAL:root:This is my critical message
+INFO:root:Log this line of Execution
+INFO:root:This is my info message
+WARNING:root:This is my warning message
+ERROR:root:This is my error message
+CRITICAL:root:This is my critical message
+CRITICAL:root:This is my fatal message
+ERROR:root:This is my exception message
+NoneType: None
+INFO:root:info message
+WARNING:root:warning message
+ERROR:root:error message
+CRITICAL:root:critical message
+INFO:root:info message
+WARNING:root:warning message
+ERROR:root:error message
+CRITICAL:root:critical message
+INFO:root:Log this line of Execution
+INFO:root:This is my info message
+WARNING:root:This is my warning message
+ERROR:root:This is my error message
+CRITICAL:root:This is my critical message
+CRITICAL:root:This is my fatal message
+ERROR:root:This is my exception message
+NoneType: None
+INFO:root:info message
+WARNING:root:warning message
+ERROR:root:error message
+CRITICAL:root:critical message
+INFO:root:info message
+WARNING:root:warning message
+ERROR:root:error message
+CRITICAL:root:critical message
+INFO:root:Log this line of Execution
+INFO:root:This is my info message
+WARNING:root:This is my warning message
+ERROR:root:This is my error message
+CRITICAL:root:This is my critical message
+CRITICAL:root:This is my fatal message
+ERROR:root:This is my exception message
+NoneType: None
+INFO:root:info message
+WARNING:root:warning message
+ERROR:root:error message
+CRITICAL:root:critical message
+INFO:root:Log this line of Execution
+INFO:root:This is my info message
+WARNING:root:This is my warning message
+ERROR:root:This is my error message
+CRITICAL:root:This is my critical message
+CRITICAL:root:This is my fatal message
+ERROR:root:This is my exception message
+NoneType: None
+INFO:root:--info message
+WARNING:root:--warning message
+ERROR:root:--error message
+CRITICAL:root:--critical message
+INFO:root:Log this line of Execution
+INFO:root:This is my info message
+WARNING:root:This is my warning message
+ERROR:root:This is my error message
+CRITICAL:root:This is my critical message
+CRITICAL:root:This is my fatal message
+ERROR:root:This is my exception message
+NoneType: None
+INFO:root:--info message
+WARNING:root:--warning message
+ERROR:root:--error message
+CRITICAL:root:--critical message
+INFO:root:This is my info message
+WARNING:root:This is my warning message
+ERROR:root:This is my error message
+INFO:root:Log this line of Execution
+INFO:root:This is my info message
+WARNING:root:This is my warning message
+ERROR:root:This is my error message
+CRITICAL:root:This is my critical message
+CRITICAL:root:This is my fatal message
+ERROR:root:This is my exception message
+NoneType: None
+INFO:root:--info message
+WARNING:root:--warning message
+ERROR:root:--error message
+CRITICAL:root:--critical message
+INFO:root:This is my info message
+WARNING:root:This is my warning message
+ERROR:root:This is my error message
+INFO:root:Log this line of Execution
+INFO:root:This is my info message
+WARNING:root:This is my warning message
+ERROR:root:This is my error message
+CRITICAL:root:This is my critical message
+CRITICAL:root:This is my fatal message
+ERROR:root:This is my exception message
+NoneType: None
+INFO:root:--info message
+WARNING:root:--warning message
+ERROR:root:--error message
+CRITICAL:root:--critical message
+INFO:root:This is my info message
+WARNING:root:This is my warning message
+ERROR:root:This is my error message
+INFO:root:Processing item: 1
+INFO:root:Processing item: 2
+INFO:root:Processing item: 3
+INFO:root:Processing item: 4
+INFO:root:Processing item: 5
+INFO:root:Processing item: 6
+INFO:root:Processing item: 7
+INFO:root:Processing item: [8, 9, 10]
+INFO:root:Found a list: [8, 9, 10]
+INFO:root:Processing sub-item: 8
+INFO:root:Adding integer: 8 to l1_int
+INFO:root:Processing sub-item: 9
+INFO:root:Adding integer: 9 to l1_int
+INFO:root:Processing sub-item: 10
+INFO:root:Adding integer: 10 to l1_int
+INFO:root:Processing item: sudh
+INFO:root:Processing item: kumar
+INFO:root:Processing item: 1
+INFO:root:Processing item: 2
+INFO:root:Processing item: 3
+INFO:root:Processing item: 4
+INFO:root:Processing item: 5
+INFO:root:Processing item: 6
+INFO:root:Processing item: 7
+INFO:root:Processing item: [8, 9, 10]
+INFO:root:Found a list: [8, 9, 10]
+INFO:root:Processing sub-item: 8
+INFO:root:Adding integer: 8 to l1_int
+INFO:root:Processing sub-item: 9
+INFO:root:Adding integer: 9 to l1_int
+INFO:root:Processing sub-item: 10
+INFO:root:Adding integer: 10 to l1_int
+INFO:root:Processing item: sudh
+INFO:root:Processing item: kumar
+INFO:root:Final integer list: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+INFO:root:Final string list: ['sudh', 'kumar']
+INFO:root:Processing item: 1
+INFO:root:Processing item: 2
+INFO:root:Processing item: 3
+INFO:root:Processing item: 4
+INFO:root:Processing item: 5
+INFO:root:Processing item: 6
+INFO:root:Processing item: 7
+INFO:root:Processing item: [8, 9, 10]
+INFO:root:Found a list: [8, 9, 10]
+INFO:root:Processing sub-item: 8
+INFO:root:Adding integer: 8 to l1_int
+INFO:root:Processing sub-item: 9
+INFO:root:Adding integer: 9 to l1_int
+INFO:root:Processing sub-item: 10
+INFO:root:Adding integer: 10 to l1_int
+INFO:root:Processing item: sudh
+INFO:root:Processing item: kumar
+INFO:root:Final integer list: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+INFO:root:Final string list: ['sudh', 'kumar']
